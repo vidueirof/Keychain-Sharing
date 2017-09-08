@@ -1,10 +1,10 @@
 {
-  "version": "2.1.8",
-  "name": "cordova-plugin-telerik-imagepicker",
-  "cordova_name": "ImagePicker",
-  "description": "This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app",
+  "version": "1.0.2",
+  "name": "cordova-plugin-keychainsharing",
+  "cordova_name": "KeychainSharing",
+  "description": "This plugin allows you to share data between your apps (with different bundle ID's) by leveraging iOS Keychain Sharing.",
   "license": "MIT",
-  "repo": "https://github.com/Telerik-Verified-Plugins/ImagePicker",
+  "repo": "https://github.com/vidueirof/Keychain-Sharing",
   "issue": "",
   "keywords": [],
   "platforms": [
